@@ -1,0 +1,11 @@
+asyncio
+logging
+queue
+av
+opencv-python
+matplotlib
+numpy
+pydub
+streamlit
+aiortc
+streamlit_webrtc
