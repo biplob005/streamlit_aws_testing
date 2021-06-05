@@ -1,4 +1,4 @@
-asyncio
+
 queue
 av
 opencv-python
